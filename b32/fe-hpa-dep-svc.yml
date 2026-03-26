@@ -21,7 +21,7 @@ spec:
         spec:
             containers:
             - name: fe
-              image: anupdudhe/frontendsa32
+              image: sakshi9146/frontendsa32
               ports:
               - containerPort: 80
               resources: #resource management for the container
