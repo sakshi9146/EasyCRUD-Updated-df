@@ -21,7 +21,7 @@ spec:
         spec:
             containers:
             - name: be
-              image: sakshi9146/backendsa32
+              image: sakshipatil01/backendsa32
               ports:
               - containerPort: 8080
               resources: #resource management for the container
